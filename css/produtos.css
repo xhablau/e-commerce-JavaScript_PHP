@@ -1,0 +1,71 @@
+#testeArroz {
+    display: flex;
+    flex-direction: row;
+}
+
+#testeMaca {
+    display: flex;
+    flex-direction: row;
+}
+
+#testeFeijão {
+    display: flex;
+    flex-direction: row;
+}
+
+#testePicanha {
+    display: flex;
+    flex-direction: row;
+}
+
+#testeBanana {
+    display: flex;
+    flex-direction: row;
+}
+
+.produto {
+    padding: 50px;
+}
+
+#imgMercado {
+    width: 200px;
+}
+
+#btnAdd {
+    background-color: #e67e22;
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#btnAdd:hover {
+    background-color: #9b5415;
+}
+
+.produto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#testeMudar{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 382%;
+
+}
+
+.inputProduto{        
+    text-align: center;   
+    border-radius: 5px;
+    width: 70%;
+    margin-bottom: 10%;
+    margin-top: 2%;
+}

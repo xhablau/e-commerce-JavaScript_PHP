@@ -1,0 +1,15 @@
+#imgMercado{
+    width: 150px;
+}
+
+#finalSell{
+    display: flex;
+    flex-direction: column;
+}
+
+#cpf::-webkit-inner-spin-button,
+#cpf::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
